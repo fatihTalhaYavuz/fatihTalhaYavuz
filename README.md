@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @fatihTalhaYavuz
-- 👀 I’m interested in searching new searching...
-- 🌱 I’m currently learning php...
-- 💞️ I’m looking to collaborate on learning new tech...
-- 📫 How to reach me in linkedin ...
+- 🌱 I’m currently learning Python and Machine Learning
+- 📫 How to reach me gulcanbal098@gmail.com.
 
-<!---
-fatihTalhaYavuz/fatihTalhaYavuz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Connect with me:
+fatih_talha_yavuz
+
+Languages and Tools:
+figma firebase flutter git java mysql python
