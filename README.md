@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fatihTalhaYavuz
-- 🌱 I’m currently learning Python and Machine Learning
+- 🌱 I’m currently learning Python, Machine Learning, C#
 - 📫 How to reach me fatihtalhabilisim@gmail.com
 
 Connect with me:
